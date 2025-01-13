@@ -44,7 +44,7 @@ function selectChapter(chapter){
 </script>
 
 
-<section class="chapter-preview default-margin">
+<section class="landing-page-section">
     <h2 class="mb-l">What you're getting</h2>
     <div class="chapter-container">
         <ul>
@@ -70,12 +70,6 @@ function selectChapter(chapter){
 </section>
 
 <style>
-    .chapter-preview {
-        padding: 80px 0;
-        margin-left: 12vw;
-        margin-right: 20vw;
-        min-width: 1150px;
-    }
     .chapter-container {
         display: flex;
         justify-content: space-between;

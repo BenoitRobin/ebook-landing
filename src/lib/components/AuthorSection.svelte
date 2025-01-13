@@ -2,7 +2,7 @@
     import AuthorPic from '$assets/profile-pic.png'
 </script>
 
-<section class="author-section">
+<section class="landing-page-section">
     <h2 class="mb-l">About the author</h2>
     <div class="author-container">
         <div class="author-text">
@@ -27,12 +27,6 @@ the lifestyle he once dreamed of.
 </section>
 
 <style>
-    .author-section {
-        padding: 80px 0;
-        margin-left: 12vw;
-        margin-right: 20vw;
-        min-width: 1150px;
-    }
     .author-container {
         display: flex;
         justify-content: space-between;
